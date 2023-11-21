@@ -1,4 +1,4 @@
-# CIS 1901 C++ Final Project - Charis Gao, Raunaq Singh
+# CIS 1901 C++ Final Project - Charis Gao, Raunaq Singh 
 
 ## Proposal
 
