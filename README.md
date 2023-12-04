@@ -1,7 +1,7 @@
 # CIS 1901 C++ Final Project - Charis Gao, Raunaq Singh
 
 ## Proposal
-
+ 
 
 For our project, we will build a sorting algorithm visualizer. Specifically, we will implement a few common sorting algorithms (e.g. insertion sort, merge sort, quick sort, bubble sort, etc.) and have a visual interface display the executions of those algorithms on vectors of comparable elements so that users can interpret how they work. 
 
